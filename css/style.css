@@ -47,7 +47,7 @@ body{
     /* border-right: 1px soild #aaa; */
 }
 
-.content-box:nth-child(3){
+.content-box:nth-child(3) {
     /* border-right: none; */
 }
 .content-heading{
