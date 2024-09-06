@@ -166,6 +166,17 @@ body{
     text-decoration:none ;
 }
 
+.more-btn{
+    padding: 8px 16px;
+    color: var(--tert);
+    font-family: var(--font1);
+    font-size: 22px;
+    text-transform: uppercase;
+    background-color: var(--btnColor);
+    border: none;
+    border-radius: 5px;
+}
+
 .month{
     font-size: 18px;
 }
